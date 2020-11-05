@@ -3,7 +3,7 @@
 
 - Creating project in API format
 ```
-docker-compose run web mix phx.new . --app api_elixir_films --no-html --no-webpack --binary-id
+docker-compose run web mix phx.new . --app back_api --no-html --no-webpack
 ```
 
 - Create a base
